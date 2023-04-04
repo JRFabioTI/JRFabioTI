@@ -5,7 +5,7 @@ Olá 👋 eu sou Fábio Jr  😎
 <br>
   <div>
     <a href="https://github.com/JRFabioTI">
-    <img height="180em" src="https://github-readme-status.vercel.app/api?username=JRFabioTI&show_icons=true&theme=dark&incluide_allcommits_private=false"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JRFabioTI&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JRFabioTI&layout=compact&langs_cont=16&theme=dark"/>
   </div>
   
